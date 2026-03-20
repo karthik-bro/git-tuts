@@ -15,7 +15,7 @@ The project demonstrates how to read, write, and manage data using `.txt` files 
 - Text Files (.txt)
 
 ## 📁 Project Structure
-project-folder/
-│── code.py
-│── example.txt
-│── README.md
+project-folder/ <br>
+│── code.py<br>
+│── example.txt<br>
+│── README.md<br>
