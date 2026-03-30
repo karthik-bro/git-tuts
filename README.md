@@ -11,11 +11,13 @@ The project demonstrates how to read, write, and manage data using `.txt` files 
 - Basic file handling operations using Python
 
 ## 🛠️ Technologies Used
+- Java 
 - Python 🐍
 - Text Files (.txt)
 
 ## 📁 Project Structure
 project-folder/ <br>
 │── code.py<br>
+│── code.java <br>
 │── example.txt<br>
 │── README.md<br>
