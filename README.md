@@ -1,6 +1,6 @@
 # 📂 My First Python Project
 
-## 📌 Project Description
+##  Project Description
 This is my first Python project where I worked with file handling using both Python files and text files.  
 The project demonstrates how to read, write, and manage data using `.txt` files through Python code.
 
@@ -15,7 +15,7 @@ The project demonstrates how to read, write, and manage data using `.txt` files 
 - Python 
 - Text Files (.txt)
 
-## 📁 Project Structure
+##  Project Structure
 project-folder/ <br>
 │── code.py<br>
 │── code.java <br>
