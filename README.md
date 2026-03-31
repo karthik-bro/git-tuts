@@ -4,15 +4,15 @@
 This is my first Python project where I worked with file handling using both Python files and text files.  
 The project demonstrates how to read, write, and manage data using `.txt` files through Python code.
 
-## 🚀 Features
+##  Features
 - Read data from a text file
 - Write data into a text file
 - Append new data without deleting existing content
 - Basic file handling operations using Python
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Java 
-- Python 🐍
+- Python 
 - Text Files (.txt)
 
 ## 📁 Project Structure
