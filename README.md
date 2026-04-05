@@ -9,7 +9,7 @@ The project demonstrates how to read, write, and manage data using `.txt` files 
 - Write data into a text file
 - Append new data without deleting existing content
 - Basic file handling operations using Python
-- Basic file handling operations using Java
+
 ## Technologies Used
 - Java 
 - Python 
